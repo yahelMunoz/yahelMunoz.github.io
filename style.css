@@ -1,0 +1,71 @@
+.img1 {
+
+    margin-left:    50px;
+    
+}
+
+.img2 {
+
+    margin-left:    150px;
+    
+}
+
+.img3 {
+
+    margin-left:    250px;
+    
+}
+
+
+.img4 {
+
+    margin-left:    350px;
+    
+}
+
+
+.img5 {
+
+    margin-left:    450px;
+    
+}
+
+
+.img6 {
+
+    margin-left:    550px;
+    
+}
+
+
+.img7 {
+
+    margin-left:    650px;
+    
+}
+
+.img8 {
+
+    margin-left:    750px;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.btn{
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: teal;
+    border-radius: 10px;
+    padding: 10px 20px;
+
+}
